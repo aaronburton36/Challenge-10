@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #0074D9;
+  color: #FFFFFF;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.team-member {
+  border: 1px solid #CCCCCC;
+  margin: 20px;
+  padding: 20px;
+}
+
+.team-member-header {
+  background-color: #CCCCCC;
+  color: #333333;
+  padding: 10px;
+}
+
+.team-member-info ul {
+  list-style: none;
+  padding: 0;
+}
+
+.team-member-info li {
+  margin-bottom: 10px;
+}
+
+.team-member-info li a {
+  color: #0074D9;
+}
